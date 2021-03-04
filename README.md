@@ -9,6 +9,9 @@ Server SpringBoot url에 대해 json만 응답
 웹 페이지  React (FE개발자 도움)  
 안드로이드 ViewPager로 SingleActiviy디자인 예정 
 
+## 더 나아가서..
+- How to i18n My Service?
+
 
 ## 참조사이트
 
